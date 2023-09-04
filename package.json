@@ -1,4 +1,14 @@
 {
   "name": "story_book_vue",
-  "packageManager": "yarn@4.0.0-rc.50"
+  "packageManager": "yarn@4.0.0-rc.50",
+  "devDependencies": {
+    "@storybook/vue3-vite": "7.0.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "storybook": "7.0.2"
+  },
+  "volta": {
+    "node": "18.17.1",
+    "yarn": "4.0.0-rc.50"
+  }
 }
